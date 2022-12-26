@@ -1,5 +1,10 @@
-Hola DPOOL
-Consigue el Puto titulo no mame
-Tu puedes....
 
-Ya hizo el primer commit
+|-------------------------------------------------------------------------------|
+|  Hola DPOOL                                                                   | 
+|  Aqui vamos a hacer varios cambios comenzando por usted.                      |
+|                                                                               |
+|  Tu puedes solamente debe tomarse la paciencia y tiempo necesario             |
+|  y despues podremos disfrutar de lo que viene.                                |
+|                                                                               |
+| * Recuerda poner git add. y git commit con un mensaje para cambiar el commit. |
+|-------------------------------------------------------------------------------|
